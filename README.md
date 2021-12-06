@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Anis from Bangladesh, and I do Web development. I really enjoy learning languages and frameworks like React,Angular and Vuejs.
+[![anichu GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **anichu/anichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
