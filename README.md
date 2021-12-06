@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Anis from Bangladesh, and I do Web development. I really enjoy learning languages and frameworks like React,Angular and Vuejs.
+I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficiency in PHP.  As a tech enthusiast, I have always wanted to become a Software Engineer to learn and contribute to technology. And I have always believed that I need to do what I love. I love solving problems, making something great, making something meaningful.
+
 [![anichu GitHub stats](https://github-readme-stats.vercel.app/api?username=anichu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
