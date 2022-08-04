@@ -5,7 +5,7 @@ I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficien
 <img align='left' width='47%'  src="https://github-readme-stats.vercel.app/api?username=anichu&show_icons=true&theme=dracula" />
 
 <img align='left' width='47%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-<img src='![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
 
 
 <!--
