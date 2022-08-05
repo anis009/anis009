@@ -11,7 +11,7 @@ I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficien
 
 <br />
 <br/>
-<div align='center' style='display:flex'>
+<div align='center' style="display:flex;margin-top=20px">
 <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
 <img align='left' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
 <img align='left'  src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
