@@ -6,7 +6,7 @@ I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficien
 <p>
 <img align='left' width='47%' height='170px'  src="https://github-readme-stats.vercel.app/api?username=anichu&show_icons=true&theme=dracula" />
 
-<img align='left' width='50%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 <br />
