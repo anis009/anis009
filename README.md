@@ -18,10 +18,10 @@ Full Stack Developer with 2+ years of hands-on experience designing, developing,
 <img align='left'  src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' />
 </p>
 
+<br />
+<!--  anichu/anichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**anichu/anichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
