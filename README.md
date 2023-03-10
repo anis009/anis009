@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficiency in PHP.  As a tech enthusiast, I have always wanted to become a Software Engineer to learn and contribute to technology. And I have always believed that I need to do what I love. I love solving problems, making something great, making something meaningful.🌱 I'm currently learning WebRTC and SocketIO.
+Full Stack Developer with 2+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming.languages. I can adapt to any technology rapidly and make myself flexible upon any tech stack. A Passionate and diligent person who wants to learn continuously.
 
 
 <p>
@@ -18,7 +18,7 @@ I'm Anis from Bangladesh, and I am a MERN Stack Developer. I have also proficien
 <img align='left'  src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' />
 </p>
 
-<!--
+
 **anichu/anichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
