@@ -4,8 +4,8 @@ Full Stack Developer with 2+ years of hands-on experience designing, developing,
 
 
 <div style="margin-bottom:40px;margin-top:40px">
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=anichu&show_icons=true&theme=dracula" />
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact"/>
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=anis009&show_icons=true&theme=dracula" />
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis009&layout=compact"/>
 </div>
 <br />
 <br/>
@@ -19,7 +19,7 @@ Full Stack Developer with 2+ years of hands-on experience designing, developing,
 </div>
 
 <br />
-<!--  anichu/anichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--  anis009/anis009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 
