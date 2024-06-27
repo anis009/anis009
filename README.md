@@ -20,23 +20,18 @@ Hi there 👋!
 - 🗄️ **Backend:**
 
   - **Programming:** `PHP` • `Node.js` • `JavaScript` • `TypeScript`
-  - **Framework:** `Laravel` • `Nest.js` • `Express.js` • `Lumen`
-  - **Databases:** `MySQL` • `PostgreSQL`
-  - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
+  - **Framework:** `Express.js`
+  - **Databases:** `MySQL`
+  - **System Architecture:** `Monolithic` • `Modular` 
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend (_I do frontend for fun_):**
+- 🖥 **Frontend :**
 
   - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` • `Gatsby`
+  - **Framework/Library:** `React.js` • `NextJs` 
   - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind` • `Modular CSS`
+  - **Utils:** `Tailwind` • `Modular CSS` • `Bootstrap`
 
-- 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `Rancher Desktop` • `GitHub Codespaces`
-  - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions` • `Travis CI`
-  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
 
 #### How to reach me?
 
