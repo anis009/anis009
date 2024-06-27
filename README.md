@@ -2,13 +2,14 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** with 5+ years of experience.
-- Among the top 100 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
-- See my portfolio at **[arifszn.com](https://www.arifszn.com)**.
+- I am a full-stack developer with extensive experience of more than one year. I have developed numerous projects, showcasing my ability to deliver high-quality solutions.
+- Adaptable to any technology and flexible with various tech stacks, I am a passionate and diligent professional committed to continuous learning and growth.
+
+- See my portfolio at **[mdanismolla.com](https://sina-porfolio.web.app/)**.
 
 #### What I'm doing?
 
-- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `Nest.js`, `MySQL`.
+- Writing `PHP`, `Node.js`, `JavaScript`, `TypeScript`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/ariful-alam)**, **[Twitter](https://twitter.com/arif_szn)** and **[Facebook](https://www.facebook.com/swozon)**.
 - Building currently **[GitProfile](https://github.com/arifszn/gitprofile)**, **[Vail](https://github.com/arifszn/vail)**, **[chkware vscode extension](https://github.com/chkware/vscode-ext)**.
@@ -63,6 +64,6 @@ Hi there 👋!
 <br/>
 
 <p align="center">
-<a href="http://www.github.com/anis009"><img src="https://github-readme-stats.vercel.app/api?username=arifszn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
-<a href="http://www.github.com/anis009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/anis009"><img src="https://github-readme-stats.vercel.app/api?username=anis009&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
+<a href="http://www.github.com/anis009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anis009&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p>
