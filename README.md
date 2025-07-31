@@ -1,8 +1,8 @@
 Hi there 👋!
 
-#### Who I am?
+#### Who am I?
 
-- I am a full-stack developer with extensive experience of more than one year. I have developed numerous projects, showcasing my ability to deliver high-quality solutions.
+- I am a full-stack developer with extensive experience of more than two years. I have developed numerous projects, showcasing my ability to deliver high-quality solutions.
 - Adaptable to any technology and flexible with various tech stacks, I am a passionate and diligent professional committed to continuous learning and growth.
 
 - See my portfolio at **[mdanismolla.com](https://sina-porfolio.web.app/)**.
