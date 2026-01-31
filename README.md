@@ -57,6 +57,9 @@ Hi there 👋!
 
 <p align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis009&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/anis009)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=anis009&theme=dark&hide_border=true)](https://github.com/anis009)
+
 </p>
 
