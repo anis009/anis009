@@ -56,6 +56,7 @@ Hi there 👋!
 <br/>
 
 <p align="center">
-<a href="http://www.github.com/anis009"><img src="https://github-readme-stats.vercel.app/api?username=anis009&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="arifszn's GitHub stats" /></a>
-<a href="http://www.github.com/anis009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anis009&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis009&show_icons=true&theme=dark&hide_border=true)](https://github.com/anis009)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anis009&theme=dark&hide_border=true)](https://github.com/anis009)
+
