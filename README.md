@@ -9,7 +9,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing `PHP`, `Node.js`, `JavaScript`, `TypeScript`, `MySQL`.
+- Writing `PHP`, `Laravel`,`Node.js`, `JavaScript`, `TypeScript`, `MySQL`.
 - Mostly active on **[LinkedIn](https://linkedin.com/in/md-anis-molla)**, **[Twitter](https://x.com/MDAnisMolla3)** and **[Facebook](https://www.facebook.com/sina537/)**.
 
 
