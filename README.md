@@ -1,36 +1,60 @@
-Hi there 👋!
+# Md Anis Molla
 
-#### Who am I?
+**Full-Stack Software Engineer with 3+ years of experience** focused on building reliable, scalable, and maintainable web applications with PHP, Node.js, TypeScript, React, Next.js, Laravel, and PostgreSQL.
 
-- I am a full-stack developer with extensive experience of more than two years. I have developed numerous projects, showcasing my ability to deliver high-quality solutions.
-- Adaptable to any technology and flexible with various tech stacks, I am a passionate and diligent professional committed to continuous learning and growth.
+I work across backend architecture, API design, database modeling, frontend implementation, and production-minded engineering practices. I enjoy taking unclear product requirements, turning them into practical technical plans, and shipping systems that are clean enough for teams to extend.
 
-- See my portfolio at **[mdanismolla.com](https://sina-porfolio.web.app/)**.
+Open to senior full-stack or backend-leaning software engineering roles where product thinking, system design, and strong execution matter.
 
-#### What I'm doing?
+Portfolio: **[anis.life](https://anis.life/)**  
+LinkedIn: **[linkedin.com/in/md-anis-molla](https://linkedin.com/in/md-anis-molla)**  
+Email: **[md.anis.molla009@gmail.com](mailto:md.anis.molla009@gmail.com)**
 
-- Writing `PHP`, `Laravel`,`Node.js`, `JavaScript`, `TypeScript`, `MySQL`.
-- Mostly active on **[LinkedIn](https://linkedin.com/in/md-anis-molla)**, **[Twitter](https://x.com/MDAnisMolla3)** and **[Facebook](https://www.facebook.com/sina537/)**.
+## What I Bring
 
+- Build and maintain full-stack web applications from database schema to user interface.
+- Design REST APIs, real-time features, authentication flows, role-based access, and backend services.
+- Work with relational and document databases, including query design, indexing, schema modeling, and performance-aware data access.
+- Translate product requirements into technical decisions that balance speed, reliability, maintainability, and user experience.
+- Write readable, testable code and improve existing systems without unnecessary rewrites.
+- Collaborate across product, design, frontend, backend, and operations concerns.
 
-#### What are my skill sets?
+## Core Skills
 
-- 🗄️ **Backend:**
+**Backend**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript` • `TypeScript`
-  - **Framework:** `Express.js`
-  - **Databases:** `MySQL`
-  - **System Architecture:** `Monolithic` • `Modular`
-  - **Protocol:** `REST` • `Web Socket`
+- Languages: `PHP`, `JavaScript`, `TypeScript`, `Python`, `C`, `C++`
+- Frameworks: `Laravel`, `Express.js`, `NestJS`
+- APIs: `REST`, `WebSocket`, `Socket.IO`
+- Architecture: `Monolith`, `Modular Monolith`, `Microservices`
 
-- 🖥 **Frontend :**
+**Frontend**
 
-  - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `NextJs`
-  - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind` • `Modular CSS` • `Bootstrap`
+- Languages: `JavaScript`, `TypeScript`
+- Frameworks: `React`, `Next.js`
+- UI: `Tailwind CSS`, `Ant Design`, `MUI`, `shadcn/ui`, `Bootstrap`
 
-#### How to reach me?
+**Databases & Infrastructure**
+
+- Databases: `PostgreSQL`, `MySQL`, `MongoDB`, `pgvector`
+- Concepts: `Indexing`, `Replication`, `Caching`, `Rate Limiting`, `Queue-Based Processing`
+- Tools & Practices: `Git`, `CI/CD`, `Logging`, `Monitoring`, `Code Review`
+
+## Engineering Interests
+
+- Backend system design and scalable API architecture
+- Database performance, search, and data modeling
+- AI-assisted product features and vector search
+- Maintainable frontend systems with clean component architecture
+- Practical engineering leadership through reviews, documentation, and technical planning
+
+## Current Focus
+
+- Advanced system design for high-traffic applications
+- AI application architecture, embeddings, and retrieval workflows
+- Observability, reliability patterns, and production debugging
+
+## Connect
 
 <a href="https://twitter.com/MDAnisMolla3">
   <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
@@ -38,20 +62,10 @@ Hi there 👋!
 <a href="https://www.linkedin.com/in/md-anis-molla">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/sina537">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
-<!-- <a href="https://dev.to/arifszn">
-  <img align="left" alt="Dev" width="22px" src="./assets/dev.svg" />
-</a> -->
-<!-- <a href="https://medium.com/@arifszn">
-  <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
-</a> -->
 <a href="mailto:md.anis.molla009@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+  <img align="left" alt="Email" width="22px" src="./assets/gmail.svg" />
 </a>
 
-<br/>
 <br/>
 <br/>
 
